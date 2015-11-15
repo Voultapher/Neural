@@ -1,3 +1,17 @@
+#custom ignores
+deps/
+Debug/
+x64/
+
+#.vcxproj
+#.filters
+.sdf
+#Graphics-Engine-v1.1.sln
+#Graphics-Engine-v1.1.suo
+#Graphics-Engine-v1.1.v12.suo
+#Veng.vcxproj
+#Veng.vcxproj.filters
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
